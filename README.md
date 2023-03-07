@@ -6,7 +6,7 @@
 
 # ComputerVision_Seminar
 <a href="https://www.youtube.com/watch?v=_-TeUfZ4rLo&list=PLEokQ2SuW8GeInexAYVdD3BaOE2JMOB9J"><img src="https://img.shields.io/badge/CV_Seminar-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/watch?v=_-TeUfZ4rLo&list=PLEokQ2SuW8GeInexAYVdD3BaOE2JMOB9J"/></a>
->2023.01.19 ~
+>2023.01.19 ~ 2023.03.16
 >
 >매주 세미나를 통해 20명 정도의 인원이 ComputerVision에 대해 알아가는 시간
 </div>
