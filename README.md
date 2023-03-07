@@ -17,7 +17,7 @@
 * CNN 모델의 구조와 학습 방법
 * Transfer Learning
 * 이미지 데이터 다루기
-* VGG Net/GoogLeNet/ResNet
+* VGG Net/GoogLeNet/ResNet 논문 리뷰
 * 모델 생성/학습
 
 
